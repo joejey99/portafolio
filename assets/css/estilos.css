@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+
+background-color: rgb(227, 243, 243);
+
+}
+
+
+#navbarSupportedContent {
+  margin-right: 100px;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+ 
+  box-sizing: border-box;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
